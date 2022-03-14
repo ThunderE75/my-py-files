@@ -1,0 +1,16 @@
+Question 1:
+Python program to find the circumference and area of a circle with a given radius
+
+
+Question 2:
+Write a Python program that takes name, course, name and marks of 5 subjects as input. It then displays the following output:
+Name:
+Course:
+Marks obtained in <name_sub1> :marks1
+Marks obtained in <name_sub2> :marks2
+Marks obtained in <name_sub3> :marks3
+Marks obtained in <name_sub4> :marks4
+Marks obtained in <name_sub5> :marks5
+Total Marks <total marks obtained> obtained out of <total marks>
+Percentage is : <percentage>
+Assume each marks are out of 100.
